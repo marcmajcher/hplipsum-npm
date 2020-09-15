@@ -1,0 +1,26 @@
+{
+  "name": "hplipsum",
+  "version": "1.0.0",
+  "license": "MIT",
+  "homepage": "http://hplipsum.com/",
+  "repository": "marcmajcher/hplipsum-npm",
+  "main": "src/hplipsum.js",
+  "keywords": [
+    "markov",
+    "markov chain",
+    "generator",
+    "text",
+    "lorem ipsum",
+    "placeholder",
+    "lovecraft",
+    "hpl",
+    "cthulhu"
+  ],
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
